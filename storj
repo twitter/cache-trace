@@ -1,0 +1,19 @@
+The following access are provided by Storj for free and will be available till Dec, 2020, we thank them for providing the service. 
+Storj is a decentralized storage, so it is good for worldwide download, users in the US should prefer downloading from CMU. 
+See https://storj.io/blog/2020/04/announcing-tech-preview-availability-for-rclone-and-restic-on-tardigrade/ for how to use Storj. 
+
+
+Sharing access to satellite 12EayRS2V1kEsWESU9QMRseFhdxYxKicsiFmxrsLZHeLUtdps3S@us-central-1.tardigrade.io:7777
+=========== ACCESS RESTRICTIONS ==========================================================
+Download  : Allowed
+Upload    : Disallowed
+Lists     : Allowed
+Deletes   : Disallowed
+NotBefore : No restriction
+NotAfter  : No restriction
+Paths     : sj://cache-traces (entire bucket)
+=========== SERIALIZED ACCESS WITH THE ABOVE RESTRICTIONS TO SHARE WITH OTHERS ===========
+Access    : 14s9LSMNNqoX8H2wH9aSBpMPZintV5RaRSgGyQAV9stgZiG6yMY59cwbVJeUZdg9aHYq7SH8htZhCBDTXk9XRgsbvX23RizYsqV47MCqw9NJjwRs9BYDG4W1pt2o3EYQvdAnANUkxndxefcgjtp1gJeY2AkGFN3cpJG5Unsqu13amR5cCUnue3iAzDanRy8nKogA8QLKPpzx7JEZrq1GCbM5xBmBYPYcmNEcpfryKPBJrwyettZdMUoi55wHXJsbH97wyCqf587HzJMEyavrEgg6VgHmcC6JPtN3EPymjNjsbhMBnaLEWM7Bi84DfTUv45AsAvnVWh
+=========== BROWSER URL ==================================================================
+URL       : https://link.tardigradeshare.io/14s9LSMNNqoX8H2wH9aSBpMPZintV5RaRSgGyQAV9stgZiG6yMY59cwbVJeUZdg9aHYq7SH8htZhCBDTXk9XRgsbvX23RizYsqV47MCqw9NJjwRs9BYDG4W1pt2o3EYQvdAnANUkxndxefcgjtp1gJeY2AkGFN3cpJG5Unsqu13amR5cCUnue3iAzDanRy8nKogA8QLKPpzx7JEZrq1GCbM5xBmBYPYcmNEcpfryKPBJrwyettZdMUoi55wHXJsbH97wyCqf587HzJMEyavrEgg6VgHmcC6JPtN3EPymjNjsbhMBnaLEWM7Bi84DfTUv45AsAvnVWh/cache-traces/
+
