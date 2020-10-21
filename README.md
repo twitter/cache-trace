@@ -77,7 +77,7 @@ The fields include `production miss ratio`,
 ---
 
 ### Misc 
-  * Please join our [discussion channel](http://groups.google.com/group/?) for questions and updates. 
+  * Please join our [discussion channel](http://groups.google.com/group/cache-trace) for questions and updates. 
   * We provide a **[trace bibliography](bibliography.bib)** of papers that have used and/or analyzed the traces, and encourage anybody who publishes one to add it to the bibliography by creating an issue or pull request on GitHub. 
 
 
