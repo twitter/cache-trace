@@ -4,7 +4,6 @@
 This repository describes the traces from Twitter's in-memory caching ([Twemcache](https://github.com/twitter/twemcache)/[Pelikan](https://github.com/twitter/pelikan)) clusters. The current traces were collected from 54 clusters in Mar 2020. The traces are one-week-long. 
 More details are described in the following paper and blog. 
 * [Juncheng Yang, Yao Yue, Rashmi Vinayak, A large scale analysis of hundreds of in-memory cache clusters at Twitter. _14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20)_, 2020](https://www.usenix.org/conference/osdi20/presentation/yang). 
-* blog post 
 
 ---
 
@@ -36,6 +35,7 @@ The full traces are large (2.8 TB in compressed form, 14 TB uncompressed), and c
 https://ftp.pdl.cmu.edu/pub/datasets/twemcacheWorkload/open_source
 
 #### SNIA 
+http://iotta.snia.org/tracetypes/17
 
 #### Storj 
 see [storj](storj) for how to access (Good for worldwide access, especially Asia and Europe, but not available after Dec 2020)
@@ -63,6 +63,8 @@ For different evaluation purposes, we recommend the following clusters/workloads
 * **TTL-related**: mix of small and large TTLs: cluster 52, cluster22, cluster25, cluster11; small TTLs only: cluster18, cluster19, cluster6, cluster7. 
 
 
+*others?*: feel free to contact us if you are looking for a trace for specific purpose. 
+
 ---
 
 
@@ -84,7 +86,7 @@ The fields include `production miss ratio`,
 ---
 
 ### Acknowledgement 
-  We thank Carnegie Mellon University PDL lab, SNIA and Storj for hosting the traces. 
+  We thank Carnegie Mellon University PDL, SNIA and Storj for hosting the traces. 
 
 
 ### License
