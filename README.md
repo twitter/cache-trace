@@ -36,9 +36,6 @@ https://ftp.pdl.cmu.edu/pub/datasets/twemcacheWorkload/open_source
 
 #### SNIA 
 http://iotta.snia.org/tracetypes/17
-
-#### Storj 
-see [storj](storj) for how to access (Good for worldwide access, especially Asia and Europe, but not available after Dec 2020)
   
 #### Baidu pan
 https://pan.baidu.com/s/1Jm2nAW-UhsjXU6JYoA07LA access code: wcws (Good for Asia access, but UI only has Chinese)
@@ -54,7 +51,7 @@ Feel free to contact us if you have problem downloading the traces.
 ### Choice of traces for different evaluations 
 For different evaluation purposes, we recommend the following clusters/workloads 
 
-* **miss ratio related (admission, eviction)**: cluster52, cluster17 (low miss ratio), cluster18 (low miss ratio), cluster24, cluster44, cluster45, cluster29. 
+* **miss ratio related (admission, eviction)**: cluster52, cluster27, cluster17 (low miss ratio), cluster18 (low miss ratio), cluster24, cluster44, cluster45, cluster29. 
 
 
 * **write-heavy workloads**: cluster12, cluster15, cluster31, cluster37. 
